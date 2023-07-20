@@ -1,2 +1,2 @@
 # BossFight
-Repositorio para un proyecto personal de Unity
+Repositorio para un proyecto personal de Unity.
